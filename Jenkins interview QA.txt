@@ -27,6 +27,8 @@
 			Pipeline block
 				Agent 
 				Stages 
+                                Stage
+                                Steps
 5  * Shared Libraries ?
 	Jenkins shared library is the concept of having common pipeline code in the version control system that can be used by any number of pipelines just by referring it. 
 	Eg – if we have 10 java micro services pipelines the maven build step will be duplicated in all 10 pipelines. On addition of new services, we have to copy paste pipeline code again. If we want to change some parameter we will need to do it in all the pipelines manually. 
