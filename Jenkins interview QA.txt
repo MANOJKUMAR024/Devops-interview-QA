@@ -84,7 +84,7 @@
 	Build Trigger periodically 
 
 24 * How you have integrated each tool in CiCd explain configuration
-	Yes, Docker, Sonarcube, BlueOcean, TinyBackup 
+	Yes, Docker, Sonarcube, BlueOcean, ThinBackup 
 
 25 * Explain jenkinsfile
 		File containing declarative script in groovy 
